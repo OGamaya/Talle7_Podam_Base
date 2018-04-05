@@ -23,6 +23,7 @@ public class VeterinaryManagerTest {
 			assertNull(d.getDate());
 			assertNull(d.getDescription());
 			assertNull(d.getMedication());
+			assertNull(d.getDicease());
 		}
 	}
 }
